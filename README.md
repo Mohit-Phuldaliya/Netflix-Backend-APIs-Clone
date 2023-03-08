@@ -65,4 +65,6 @@ Collaborative filtering is a technique that uses the behavior of similar users t
 
 Content-based filtering is a technique that recommends content based on the characteristics of the content itself. For example, if a user has watched several romantic comedies, the recommendation engine may suggest other romantic comedies based on the genre and other characteristics of the movies.
 
+### CONCLUSION
+
 In conclusion, Netflix has a complex system design that involves the use of a CDN, video encoding, and sophisticated recommendation engines. By using these techniques, Netflix is able to deliver high-quality video content with low latency and provide a personalized viewing experience to its users.
