@@ -1,0 +1,21 @@
+{
+  "name": "building-neflix-apis",
+  "version": "1.0.0",
+  "description": "Netflix Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "seed:media": "node ./__db__/seed_media.js",
+    "seed:lib": "node ./__db__/seed_lib.js"
+  },
+  "author": "Mohit Phuldaliya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
